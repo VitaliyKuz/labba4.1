@@ -1,0 +1,11 @@
+C:\Users\Laptop\source\repos\labba2sem4_1\labba2sem4_1\bin\Debug\netcoreapp2.1\labba2sem4_1.deps.json
+C:\Users\Laptop\source\repos\labba2sem4_1\labba2sem4_1\bin\Debug\netcoreapp2.1\labba2sem4_1.runtimeconfig.json
+C:\Users\Laptop\source\repos\labba2sem4_1\labba2sem4_1\bin\Debug\netcoreapp2.1\labba2sem4_1.runtimeconfig.dev.json
+C:\Users\Laptop\source\repos\labba2sem4_1\labba2sem4_1\bin\Debug\netcoreapp2.1\labba2sem4_1.dll
+C:\Users\Laptop\source\repos\labba2sem4_1\labba2sem4_1\bin\Debug\netcoreapp2.1\labba2sem4_1.pdb
+C:\Users\Laptop\source\repos\labba2sem4_1\labba2sem4_1\obj\Debug\netcoreapp2.1\labba2sem4_1.csprojAssemblyReference.cache
+C:\Users\Laptop\source\repos\labba2sem4_1\labba2sem4_1\obj\Debug\netcoreapp2.1\labba2sem4_1.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\source\repos\labba2sem4_1\labba2sem4_1\obj\Debug\netcoreapp2.1\labba2sem4_1.AssemblyInfoInputs.cache
+C:\Users\Laptop\source\repos\labba2sem4_1\labba2sem4_1\obj\Debug\netcoreapp2.1\labba2sem4_1.AssemblyInfo.cs
+C:\Users\Laptop\source\repos\labba2sem4_1\labba2sem4_1\obj\Debug\netcoreapp2.1\labba2sem4_1.dll
+C:\Users\Laptop\source\repos\labba2sem4_1\labba2sem4_1\obj\Debug\netcoreapp2.1\labba2sem4_1.pdb
